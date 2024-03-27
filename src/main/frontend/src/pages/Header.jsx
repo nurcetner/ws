@@ -13,7 +13,7 @@ function Header() {
                 <img src={logo} alt="Website Logo" style={{width:150, height:150}}/>
             </div>
             <div style={{marginLeft: 300, marginTop: 60}}>
-                <h1>Welcome to My Website</h1>
+                <h1>Welcome to My Websiteeee</h1>
                 <nav>
                     <ul>
                         <li><a href="/">Home</a></li>
